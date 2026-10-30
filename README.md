@@ -263,34 +263,32 @@ WK1-PM1-Kali-Linux-Virtual-Lab/
 
 ## 7. Implementation Evidence
 
-Screenshots will be added as the environment is configured and
-verified.
+The following screenshots document the actual implementation of
+the cybersecurity virtual lab.
 
-### VirtualBox Installation
+### 7.1 VirtualBox Installation
 
-<!-- Add your VirtualBox screenshot here -->
+![VirtualBox Manager](screenshots/01-virtualbox-installation/virtualbox-manager.png)
 
-### NAT Network Configuration
+### 7.2 NAT Network Configuration
 
-<!-- Add your NAT Network screenshot here -->
+![NAT Network](screenshots/02-nat-network/nat-network-settings.png)
 
-### Kali Linux VM Settings
+### 7.3 Kali Linux Virtual Machine Settings
 
-<!-- Add your VM configuration screenshot here -->
+![Kali VM Network](screenshots/03-kali-vm-settings/kali-vm-network.png)
 
-### Network Configuration
+### 7.4 Kali Linux Network Configuration
 
-<!-- Add your Kali IP configuration screenshot here -->
+![Kali Network Configuration](screenshots/04-network-configuration/kali-network-config.png)
 
-### Connectivity Testing
+### 7.5 Network Connectivity Verification
 
-<!-- Add your successful connectivity test screenshot here -->
+![Connectivity Tests](screenshots/05-connectivity-tests/connectivity-tests.png)
 
-### VM Snapshot
+### 7.6 Virtual Machine Snapshot
 
-<!-- Add your snapshot screenshot here -->
-
----
+![Kali Snapshot](screenshots/06-snapshots/kali-snapshot.png)
 
 ## 8. Verification and Testing
 
